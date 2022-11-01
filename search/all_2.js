@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['free_5fvalue_0',['free_value',['../structgtype__vector.html#a2abdf938b7d021bae19204db6b5999bb',1,'gtype_vector']]]
+  ['dll_2eh_0',['dll.h',['../dll_8h.html',1,'']]],
+  ['dllist_1',['dllist',['../structdllist.html',1,'']]],
+  ['dlnode_2',['dlnode',['../structdlnode.html',1,'']]]
 ];
